@@ -1,0 +1,11 @@
+Python version: 3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]
+----------------------------------------
+torch: 2.5.1
+torchvision: 0.20.1
+numpy: 2.0.1
+matplotlib: 3.10.9
+sklearn: 1.7.1
+pandas: 3.0.3
+----------------------------------------
+random (built-in): default Python library
+os (built-in): default Python library
